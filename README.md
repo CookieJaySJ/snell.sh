@@ -13,7 +13,7 @@
 Debian & Ubuntu 用户请运行
 
 ```
-wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/ydzydzydz/snell.sh/master/snell-port.sh
+wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/CookieJaySJ/snell.sh/master/snell-port.sh
 chmod +x snell.sh
 ./snell.sh
 ```
@@ -21,7 +21,7 @@ chmod +x snell.sh
 Centos & RedHat 用户请运行
 
 ```
-wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/ydzydzydz/snell.sh/master/snell.centos-port.sh
+wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/CookieJaySJ/snell.sh/master/snell.centos-port.sh
 chmod +x snell.sh
 ./snell.sh
 ```
@@ -33,7 +33,7 @@ chmod +x snell.sh
 卸载方法：
 
 ```
-wget --no-check-certificate -O uninstall-snell.sh https://raw.githubusercontent.com/ydzydzydz/snell.sh/master/uninstall-snell.sh
+wget --no-check-certificate -O uninstall-snell.sh https://raw.githubusercontent.com/CookieJaySJ/snell.sh/master/uninstall-snell.sh
 chmod +x uninstall-snell.sh
 ./uninstall-snell.sh
 ```
@@ -88,7 +88,7 @@ psk = x3IBaVj9K6a6PAzF
 obfs = tls
 ```
 
-或者将编辑好的[snell-server.conf](https://raw.githubusercontent.com/ydzydzydz/snell.sh/master/snell-server.conf)，通过 ftp 软件上传到对应路径
+或者将编辑好的[snell-server.conf](https://raw.githubusercontent.com/CookieJaySJ/snell.sh/master/snell-server.conf)，通过 ftp 软件上传到对应路径
 
 ---
 
